@@ -1,40 +1,52 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
+      "cityName": "Villarta de los Montes",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "date": "2023-09-03T10:48:18.200Z",
+      "notes": "kjhihh",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "39.25120171702238",
+        "lng": "-4.746093750000001"
       },
-      "id": 17806751
+      "id": 1
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Alcala de Henares",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-03T11:33:44.021Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "40.48190778527606",
+        "lng": "-3.3178710937500004"
       },
-      "id": 98443197
+      "id": 2
+    },
+    {
+      "cityName": "Abrantes",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-09-03T11:33:57.882Z",
+      "notes": "565656",
+      "position": {
+        "lat": "39.310224530151054",
+        "lng": "-8.261718750000002"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Foggaret Ezzaou",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-09-03T11:34:29.465Z",
+      "notes": "",
+      "position": {
+        "lat": "27.69875854975616",
+        "lng": "3.251953125"
+      },
+      "id": 4
     }
   ]
 }
