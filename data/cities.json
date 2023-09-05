@@ -47,6 +47,42 @@
         "lng": "3.251953125"
       },
       "id": 4
+    },
+    {
+      "cityName": "Andorra la Vella",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2023-09-03T13:21:35.221Z",
+      "notes": "test",
+      "position": {
+        "lat": "42.489181982193934",
+        "lng": "1.4941406250000002"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Sant Joan",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-03T13:25:26.200Z",
+      "notes": "fdfdfd",
+      "position": {
+        "lat": "39.60746538042038",
+        "lng": "2.9882812500000004"
+      },
+      "id": 6
+    },
+    {
+      "cityName": "Muthallath al Azraq",
+      "country": "Jordan",
+      "emoji": "🇯🇴",
+      "date": "2023-09-05T11:58:21.256Z",
+      "notes": "i live here",
+      "position": {
+        "lat": "31.972477979942607",
+        "lng": "36.87011718750001"
+      },
+      "id": 7
     }
   ]
 }
